@@ -14,7 +14,7 @@ namespace Core
         private readonly Thread thread;
 
         public static string Sequence1 => Sequence;
-
+         
         public int Counter { get => counter; set => counter = value; }
         public int Left { get => left; set => left = value; }
         public int Top { get => top; set => top = value; }
