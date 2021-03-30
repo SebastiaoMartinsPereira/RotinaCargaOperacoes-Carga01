@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SalaSolutions.Carga": {
+      "commandName": "Project",
+      "commandLineArgs": "CargaSala01",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
